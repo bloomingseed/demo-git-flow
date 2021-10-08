@@ -1,6 +1,6 @@
 # Structures
 - data
-|- students.data
+|- students.csv
 - models
 |- Student.rb
 - services
