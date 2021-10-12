@@ -23,4 +23,5 @@
 # Non-functional
 - Text-based, command-line interface student info management application.
 
-testing new chapter branch
+testing new chapter branch. Không dám push lộn :v:
+
